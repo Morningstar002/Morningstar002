@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on currently nothing
-- 📫 How to reach me ( umarziaa@gmail.com )
+- 📫 How to reach me (umarziaa@gmail.com)
 
 <!---
 Morningstar002/Morningstar002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
